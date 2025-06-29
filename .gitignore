@@ -1,7 +1,11 @@
 /bazel-*
 /MODULE.bazel.lock
 
+.idea
+
+
 /.ijwb/
 /.aswb/
 /.clwb/
 
+*.iml
